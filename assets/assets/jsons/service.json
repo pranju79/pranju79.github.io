@@ -1,0 +1,51 @@
+[
+	{
+		"icon_url": "https://example.com/icons/figma.png",
+		"title": "Figma Design",
+		"description": "Designing user interfaces and experiences with Figma.",
+		"button_text": "Learn More",
+		"button_action": "/service/figma"
+	},
+	{
+		"icon_url": "https://example.com/icons/flutter.png",
+		"title": "Flutter Development",
+		"description": "Building cross-platform mobile applications with Flutter.",
+		"button_text": "Learn More",
+		"button_action": "/service/flutter"
+	},
+	{
+		"icon_url": "https://example.com/icons/android.png",
+		"title": "Android Development",
+		"description": "Developing Android applications with Kotlin and Java.",
+		"button_text": "Learn More",
+		"button_action": "/service/android"
+	},
+	{
+		"icon_url": "https://example.com/icons/php.png",
+		"title": "PHP Development",
+		"description": "Server-side scripting and web development with PHP.",
+		"button_text": "Learn More",
+		"button_action": "/service/php"
+	},
+	{
+		"icon_url": "https://example.com/icons/nodejs.png",
+		"title": "Node.js Development",
+		"description": "Creating scalable backend services with Node.js.",
+		"button_text": "Learn More",
+		"button_action": "/service/node"
+	},
+	{
+		"icon_url": "https://example.com/icons/java.png",
+		"title": "Java Development",
+		"description": "Enterprise-level applications with Java.",
+		"button_text": "Learn More",
+		"button_action": "/service/java"
+	},
+	{
+		"icon_url": "https://example.com/icons/react.png",
+		"title": "React Development",
+		"description": "Building dynamic web applications with React.",
+		"button_text": "Learn More",
+		"button_action": "/service/react"
+	}
+]

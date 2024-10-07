@@ -1,0 +1,22 @@
+[
+	{
+		"name": "TelphaJobs",
+		"description": "Job portal for job seekers and employers.",
+		"image": "innovation1.jpg"
+	},
+	{
+		"name": "TelphaNews",
+		"description": "News portal for news readers and publishers.",
+		"image": "innovation2.jpg"
+	},
+	{
+		"name": "TelphaChoice",
+		"description": "Amazon-like e-commerce platform for buyers and sellers.",
+		"image": "innovation3.jpg"
+	},
+	{
+		"name": "TelphaView",
+		"description": "Interview platform for job seekers and employers.",
+		"image": "innovation4.jpg"
+	}
+]
